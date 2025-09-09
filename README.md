@@ -1,4 +1,4 @@
 # project-demo
-this is my first Git .
+this is my first Git Repository.
 <br>
-Author-shekhar sonkar
+Author - Shekhar Sonkar
